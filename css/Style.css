@@ -183,8 +183,8 @@ body {
 
 #left-corner-image {
     position: absolute;
-    top: 10px;
-    left: 10px;
+    top: 100px;
+    left: 100px;
     z-index: 1;
 }
 
